@@ -1,8 +1,8 @@
 
-<h1 align="center">Olá 👋, Eu sou Thiago Santana</h1>
-<h3 align="center">Focado em Análise de Dados e Ferramentas de BI, para resolver problemas.</h3>
+<h1 align="center">I am, Thiago Santana, prazer!</h1>
+<h3 align="center">Um entusiasta de dados. Meu objetivo é solucionar qualquer tipo de problema (Se eu não tiver, com toda certeza eu encontrarei).</h3>
 
-- 🌱 Atualmente estou aperfeiçoando meus conhecimentos em: **Python, SQL, DAX, BI, Estatística**
+- ✨ Atualmente estou aperfeiçoando meus conhecimentos em: **Python, SQL, NoSQL, PySpark, Cloud Computing, Big Data**
 
 - 📫 E-mail para contato: **thiagosantana536@gmail.com**
 
