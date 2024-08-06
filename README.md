@@ -1,5 +1,6 @@
 ### Olá, I am Thiago Santana!
-Sou um entusiasta de dados com o objetivo de resolver desafios complexos e encontrar soluções inovadoras para diversos problemas. Sempre estarei aprimorando minhas habilidades em várias áreas essenciais do campo de dados.
+Sou um entusiasta de dados com o objetivo de resolver desafios complexos e encontrar soluções inovadoras para diversos problemas. 
+Sempre estarei aprimorando minhas habilidades em várias áreas essenciais do campo de dados.
 
 🚀 Habilidades e Tecnologias
 Linguagens e Ferramentas:
@@ -9,8 +10,9 @@ Linguagens e Ferramentas:
 - PySpark
 - Cloud Computing (Azure)
 - Big Data
+
 📬 Contato
-Para entrar em contato, envie um e-mail para: thiagosantana536@gmail.com
+Enviar um e-mail para: thiagosantana536@gmail.com
 
 🌐 Conecte-se comigo
-[LinkedIn] (https://www.linkedin.com/in/thiago-oliveira-2549aa224/)
+LinkedIn https://www.linkedin.com/in/thiago-oliveira-2549aa224/
