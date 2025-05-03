@@ -7,9 +7,9 @@ Sempre estarei aprimorando minhas habilidades em várias áreas essenciais do ca
 🚀 Habilidades e Tecnologias
 Linguagens e Ferramentas:
 - Python
-- SQL (PostgreSQL, MySQL, MSSQL)
-- NoSQL (MongoDB, Cassandra)
-- PySpark
+- SQL (PostgreSQL, MySQL, SqlServer)
+- NoSQL (MongoDB)
+- Databricks
 - Cloud Computing (Azure)
 - Big Data
 
