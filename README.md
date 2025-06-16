@@ -1,4 +1,4 @@
-### Olá, I am Thiago Santana!
+### Olá! Me chamo, Thiago
 Sou um entusiasta de dados com o objetivo de resolver desafios complexos e encontrar soluções inovadoras para diversos problemas. 
 Sempre estarei aprimorando minhas habilidades em várias áreas essenciais do campo de dados.
 
